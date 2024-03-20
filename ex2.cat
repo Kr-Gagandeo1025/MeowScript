@@ -1,0 +1,4 @@
+billi = "meomeow"
+meow("Hello" billi)
+add = meowaddsmeow(2 4)
+meow(add)

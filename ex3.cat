@@ -1,0 +1,11 @@
+f = () => 1
+g = (a b) => meowaddsmeow(meowmultsmeow(2 a) b)
+h = (x y) => {
+meow("x =" x)
+meow("y =" y)
+g(x y)
+}
+res = h(3 4)
+meow("res =" res)
+meow("f =" f())
+meow("g(f f) =" g(f() f()))

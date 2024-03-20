@@ -1,0 +1,7 @@
+billi = "meomeow"
+meow("Hello" billi)
+add = meowaddsmeow(1 2)
+div = meowdivsmeow(4 2)
+meow("addition is" add "division is" div)
+purrs("meow" 4)
+meow(paws(2 4) scratch(144))
